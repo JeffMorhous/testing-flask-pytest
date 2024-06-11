@@ -30,7 +30,7 @@ The endpoints are now accessible at:
 - <http://127.0.0.1:5000/bookapi/books>
 - <http://127.0.0.1:5000/bookapi/books/1>
 
-## Execution all the Tests
+## Execute all the Tests
 
 To execute all the tests, run the following command:
 
